@@ -74,7 +74,7 @@ HELP = """
 
 
 
-<b><u>Bot Owner Only</u></b>
+
 
 ➥ /broadcast Replay Any Message or Media
 
