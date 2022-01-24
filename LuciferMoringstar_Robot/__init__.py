@@ -67,7 +67,7 @@ from .Channel import (
 
 HELP = """
 
-<b><u>Basic Commads</u></b>
+
 
 ➥ /start : check if am alive or dead
 
