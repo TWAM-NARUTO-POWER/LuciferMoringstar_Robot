@@ -71,7 +71,6 @@ HELP = """
 
 
 
-➥ /about : About Me
 
 ➥ /stats user Status
 
