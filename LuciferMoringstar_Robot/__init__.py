@@ -72,7 +72,7 @@ HELP = """
 
 
 
-➥ /stats user Status
+
 
 <b><u>Bot Owner Only</u></b>
 
