@@ -69,7 +69,7 @@ HELP = """
 
 
 
-➥ /start : check if am alive or dead
+
 
 ➥ /about : About Me
 
