@@ -76,14 +76,9 @@ HELP = """
 
 
 
-➥ 
-➥ /banned_users Banned User Details
 
-Database
 
-➥ /
 
-ABOUT = """
 
 ➥ Name : Auto Filter With IMDB
 
